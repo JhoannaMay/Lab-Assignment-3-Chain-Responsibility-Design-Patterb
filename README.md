@@ -16,8 +16,8 @@
 5. Validation: Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
 Your solution should include in your github account:
+
 Problem Statement
 UML Diagram
-
 Solution Codes
 
