@@ -1,0 +1,5 @@
+
+
+enum WasteType {
+    ORGANIC, RECYCLABLE, HAZARDOUS
+}
